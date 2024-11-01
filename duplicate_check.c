@@ -13,7 +13,7 @@ int hasDuplicate(int arr[], int size) {
 }
 
 int main() {
-    int arr[100],size,i;
+    int arr[20],size,i;
     printf("Enter the number of elements in the array:\n");
     scanf("%d",&size);
     printf("Enter the elements in the array:\n");
